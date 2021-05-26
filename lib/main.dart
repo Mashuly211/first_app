@@ -21,22 +21,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-// class Shop extends StatefulWidget {
-//   @override
-//   _ShopState createState() => _ShopState();
-// }
-
-// class _ShopState extends State<Shop> {
-//   @override
-//   Widget build(BuildContext contect) {
-//     return Scaffold(
-//       body: CustomScrollView(
-//         slivers: [
-//           TabViewScreen(),
-//           Categories(),
-//         ],
-//       )
-//     );
-//   }
-// }
